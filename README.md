@@ -1,4 +1,4 @@
-Welcome to FastDistance! This is a speedy little Python tool that calculates the total difference between two big lists of numbers. It’s built to handle huge datasets (think millions of numbers) without slowing down, thanks to some clever tricks with NumPy and parallel processing.
+Welcome to FastDistance! This is a speedy little Python tool that calculates the total difference between two big lists of numbers. Thanks to some clever tricks with NumPy and parallel processing, it’s built to handle huge datasets (think millions of numbers) without slowing down.
 
 What It Does
 Imagine you’ve got two giant lists of numbers, and you want to know how far apart they are when lined up in order. FastDistance sorts both lists lightning-fast and adds up the absolute differences between them. Simple, but super quick!
@@ -15,7 +15,7 @@ Clone this repo:
 git clone https://github.com/yourusername/FastDistance.git
 cd FastDistance
 
-nstall Stuff
+install Stuff
 
 You’ll need Python 3 and a couple of libraries. Run:
 
@@ -31,7 +31,4 @@ Notes
 Your lists need to be the same length, or it’ll complain.
 Tested with 1 million numbers, but it can handle more if you’ve got the memory.
 Contributing
-Found a way to make it faster? Got a cool idea? Open an issue or send a pull request—I’d love to see it!
-
-License
-This is free to use under the . Do whatever you want with it, just don’t blame me if it eats your homework.
+Found a way to make it faster? Got a cool idea? Open an issue or send a pull request—I’d love to see it!  
