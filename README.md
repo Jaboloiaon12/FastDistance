@@ -1,4 +1,3 @@
-FastDistance
 Welcome to FastDistance! This is a speedy little Python tool that calculates the total difference between two big lists of numbers. It’s built to handle huge datasets (think millions of numbers) without slowing down, thanks to some clever tricks with NumPy and parallel processing.
 
 What It Does
